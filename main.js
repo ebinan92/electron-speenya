@@ -15,7 +15,8 @@ function onAppReady() {
         show: true,
         resizable: false,
         transparent: true, // 背景を透明に
-        alwaysOnTop: true // 一番手前に表示する
+        alwaysOnTop: true, // 一番手前に表示する
+        'always-on-top': true
     });
 
     // 透明な部分のマウスのクリックを検知させない
