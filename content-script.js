@@ -1,7 +1,7 @@
 /* global chrome, io */
 (function () {
     // change to your server url
-    const SERVER_URL = 'http://localhost:3000/'
+    const SERVER_URL = 'https://hogehoge.com'
 
     let socket = null
 
